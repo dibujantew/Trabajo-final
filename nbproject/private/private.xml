@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/CURSO_JAVA/ExamenFinal/Final/web/META-INF/context.xml</file>
+            <file>file:/E:/CURSO_JAVA/ExamenFinal/Final/src/java/Beans/Atleta.java</file>
+            <file>file:/E:/CURSO_JAVA/ExamenFinal/Final/web/ListarTodo.jsp</file>
+            <file>file:/E:/CURSO_JAVA/ExamenFinal/Final/src/java/Servlets/GeneradorReporte.java</file>
+            <file>file:/E:/CURSO_JAVA/ExamenFinal/Final/web/WEB-INF/web.xml</file>
+            <file>file:/E:/CURSO_JAVA/ExamenFinal/Final/web/Pagina.jsp</file>
+            <file>file:/E:/CURSO_JAVA/ExamenFinal/Final/web/Eliminar.jsp</file>
+            <file>file:/E:/CURSO_JAVA/ExamenFinal/Final/src/java/Servlets/SerGrafico.java</file>
+            <file>file:/E:/CURSO_JAVA/ExamenFinal/Final/web/Mensaje.jsp</file>
+            <file>file:/E:/CURSO_JAVA/ExamenFinal/Final/src/java/Conexion/Conecta.java</file>
+            <file>file:/E:/CURSO_JAVA/ExamenFinal/Final/BD.sql</file>
+            <file>file:/E:/CURSO_JAVA/ExamenFinal/Final/web/Verificar.jsp</file>
+            <file>file:/E:/CURSO_JAVA/ExamenFinal/Final/src/java/Dao/Negocio.java</file>
+            <file>file:/E:/CURSO_JAVA/ExamenFinal/Final/web/Reporte.jsp</file>
+        </group>
+    </open-files>
+</project-private>
